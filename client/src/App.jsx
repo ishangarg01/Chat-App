@@ -1,8 +1,11 @@
+import Register from "./Register"
+
 function App() {
 
   return (
-    <div className='bg-blue-300'>test</div>
-  )
+    <Register />
+     
+    )
 }
 
 export default App
