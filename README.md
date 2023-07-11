@@ -1,2 +1,5 @@
 # Chat-App
-# Created by Harman-Ishan-Parth
+team members:
+Harman
+Parth 
+Ishan
